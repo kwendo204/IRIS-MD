@@ -51,7 +51,7 @@ module.exports = {
     IG: process.env.IG || 'https://instagram.com/sla.sher_/',
     INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
     URL: process.env.URL || 'https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q',
-    SUDO: process.env.SUDO || '8801975492880',
+    SUDO: process.env.SUDO || '254717407351',
     AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
     MODE: process.env.MODE || 'private',
